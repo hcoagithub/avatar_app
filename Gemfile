@@ -6,7 +6,7 @@ ruby "3.2.0"
 gem 'faker', '~> 2.23'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.0.5"
+gem 'rails', '7.0.5'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
